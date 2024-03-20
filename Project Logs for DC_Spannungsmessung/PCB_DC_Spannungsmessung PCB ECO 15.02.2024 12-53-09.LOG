@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND_LV Pin=C4-1
+Removed Pin From Net: NetName=+5V_LV Pin=C4-2
+Removed Member From Class: ClassName=VoltageDivider & Diff AMP Member=C4
+Add Pin To Net: Unknown Pin: Pin J5-10
+Add Pin To Net: Unknown Pin: Pin J5-11
+Add Class: Class already exists: Spannungswandlung

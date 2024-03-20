@@ -1,0 +1,11 @@
+Change component parameters: Designator = "PS1" ("PS1"); Footprint = "PGNM1-S24-S5-S"; UniqueID = "\EXDMETLJ\RIJLQICU" ("\EXDMETLJ\RIJLQICU")
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-PGNM1-S24-S5-S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PS2" ("PS2"); Footprint = "PGNM1-S24-S5-S"; UniqueID = "\LMZQSWQO\XOVOUZUW" ("\LMZQSWQO\XOVOUZUW")
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-PGNM1-S24-S5-S"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin PS1-7
+Add Pin To Net: Unknown Pin: Pin PS2-7
+Add Class: Class already exists: Spannungswandlung

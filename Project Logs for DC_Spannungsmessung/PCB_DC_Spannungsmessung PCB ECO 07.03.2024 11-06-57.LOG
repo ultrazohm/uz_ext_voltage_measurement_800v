@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND_LV Pin=R13-1
+Removed Member From Class: ClassName=TopSheet Member=R13
+Added Component: Designator=R?(RES 0603_1608)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "04.03.2021 09:09:42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C21189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "C21189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_LV Pin=J4-Shell
+Added Pin To Net: NetName=GND_LV Pin=J4-Shell
+Add Class: Class already exists: Spannungswandlung
+Added Member To Class: ClassName=TopSheet Member=Component R? 0R

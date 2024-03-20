@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND_LV Pin=C19-1
+Removed Pin From Net: NetName=+5V_LV Pin=C19-2
+Removed Pin From Net: NetName=GND_LV Pin=C20-1
+Removed Pin From Net: NetName=+5V_LV Pin=C20-2
+Removed Pin From Net: NetName=GND_LV Pin=C21-1
+Removed Pin From Net: NetName=+5V_LV Pin=C21-2
+Added Pin To Net: NetName=+5V_LV Pin=C19-1
+Added Pin To Net: NetName=GND_LV Pin=C19-2
+Added Pin To Net: NetName=+5V_LV Pin=C20-1
+Added Pin To Net: NetName=GND_LV Pin=C20-2
+Added Pin To Net: NetName=+5V_LV Pin=C21-1
+Added Pin To Net: NetName=GND_LV Pin=C21-2
+Add Pin To Net: Unknown Pin: Pin J5-10
+Add Pin To Net: Unknown Pin: Pin J5-11
+Add Class: Class already exists: Spannungswandlung

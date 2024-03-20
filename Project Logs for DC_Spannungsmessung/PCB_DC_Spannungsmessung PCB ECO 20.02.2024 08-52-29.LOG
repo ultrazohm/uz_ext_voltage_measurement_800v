@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=V_OUT_P Pin=J4-4
+Removed Pin From Net: NetName=V_OUT_N Pin=J4-5
+Removed Pin From Net: NetName=GND_LV Pin=J4-MH1
+Removed Pin From Net: NetName=GND_LV Pin=J4-MH2
+Removed Pin From Net: NetName=V_OUT_N Pin=J5-1
+Removed Pin From Net: NetName=V_OUT_P Pin=J5-6
+Removed Pin From Net: NetName=GND_IN Pin=X1-10
+Change Component Footprint: Designator=J4 Old Footprint=RJHSE5381 New Footprint=634008149821
+Change Component Comment : Designator=J4 Old Comment=RJHSE-5381 New Comment=6339160-1
+Change component parameters: Designator = "J4" ("J4"); Footprint = "RJHSE5381"; UniqueID = "\WOZXIYJF" ("\WOZXIYJF")
+Change component parameters (AddParameter): Name = "Category"; Value = "Input/Output Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "RJ45 Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/TeConnectivity-63391601/C125076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/634008149821?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "NDiringer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.04.2023 12:29:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "RJ45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "500MOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.04.2023 12:29:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C125076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LED"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "6339160-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WR-MJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8P8C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RJHSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C125076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RJ45 Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "1000VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "120VAC"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 0603_1608)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "04.03.2021 09:09:42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C21189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "C21189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_OUT_P Pin=J4-7
+Added Pin To Net: NetName=V_OUT_N Pin=J4-8
+Added Pin To Net: NetName=V_OUT_P Pin=J5-1
+Added Pin To Net: NetName=V_OUT_N Pin=J5-6
+Added Pin To Net: NetName=GND_LV Pin=R13-1
+Added Pin To Net: NetName=5V_IN Pin=X1-3
+Added Pin To Net: NetName=GND_IN Pin=X1-5
+Added Pin To Net: NetName=GND_IN Pin=X1-13
+Added Pin To Net: NetName=NetJ4_Shell Pin=J4-Shell
+Added Pin To Net: NetName=NetJ4_Shell Pin=J4-Shell
+Added Pin To Net: NetName=NetJ4_Shell Pin=R13-2
+Added Net: Name=NetJ4_Shell
+Add Class: Class already exists: Spannungswandlung
+Added Member To Class: ClassName=TopSheet Member=Component R13 0R

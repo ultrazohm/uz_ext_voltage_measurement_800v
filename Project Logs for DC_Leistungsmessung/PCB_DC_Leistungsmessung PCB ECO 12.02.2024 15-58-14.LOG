@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=GND_LV Pin=C3-2
+Removed Pin From Net: NetName=NetC5_1 Pin=C7-1
+Removed Pin From Net: NetName=+5V_HV Pin=C7-2
+Removed Pin From Net: NetName=GND_LV Pin=C16-1
+Removed Pin From Net: NetName=+5V_LV Pin=C16-2
+Removed Pin From Net: NetName=GND_LV Pin=C17-1
+Removed Pin From Net: NetName=+5V_LV Pin=C17-2
+Removed Pin From Net: NetName=GND_LV Pin=C18-1
+Removed Pin From Net: NetName=+5V_LV Pin=C18-2
+Removed Member From Class: ClassName=VoltageDivider & Diff AMP Member=C3
+Removed Member From Class: ClassName=VoltageDivider & Diff AMP Member=C7
+Removed Member From Class: ClassName=Spannungswandlung Member=C16
+Removed Member From Class: ClassName=Spannungswandlung Member=C17
+Removed Member From Class: ClassName=Spannungswandlung Member=C18
+Change Component Comment : Designator=R3 Old Comment=4k 0.1% New Comment=2k 0.1%
+Change Component Comment : Designator=R12 Old Comment=4k 0.1% New Comment=2k 0.1%
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES 1206_3216"; UniqueID = "\WFIOPQOZ\KUTPMWOV" ("\WFIOPQOZ\KUTPMWOV")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28758/tnpw_e3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "TGaupp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "12.02.2024 09:48:36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "12.02.2024 09:48:36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TNPW12062K00BEEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "323"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-TNPW12062K00BEEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES 1206_3216"; UniqueID = "\WFIOPQOZ\LIFIIYAL" ("\WFIOPQOZ\LIFIIYAL")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28758/tnpw_e3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "TGaupp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "12.02.2024 09:48:36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "12.02.2024 09:48:36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TNPW12062K00BEEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "323"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-TNPW12062K00BEEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 7460719
+Add Component: Footprint Not Found 7460719
+Add Component: Footprint Not Found BNC5-J-P-GN-ST-TH2D_new
+Add Component: Footprint Not Found EC1SA01N
+Add Component: Footprint Not Found EC1SA01N
+Add Component: Footprint Not Found R1206_3216
+Add Component: Footprint Not Found R1206_3216
+Added Pin To Net: NetName=+5V_LV Pin=C19-2
+Added Pin To Net: NetName=+5V_LV Pin=C20-2
+Added Pin To Net: NetName=+5V_LV Pin=C21-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=GND_LV Pin=IC1-6
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J1-16
+Add Pin To Net: Unknown Pin: Pin J1-17
+Add Pin To Net: Unknown Pin: Pin J1-18
+Add Pin To Net: Unknown Pin: Pin J1-19
+Add Pin To Net: Unknown Pin: Pin J1-20
+Add Pin To Net: Unknown Pin: Pin J1-21
+Add Pin To Net: Unknown Pin: Pin J1-22
+Add Pin To Net: Unknown Pin: Pin J1-23
+Add Pin To Net: Unknown Pin: Pin J1-24
+Add Pin To Net: Unknown Pin: Pin J1-25
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J2-12
+Add Pin To Net: Unknown Pin: Pin J2-13
+Add Pin To Net: Unknown Pin: Pin J2-14
+Add Pin To Net: Unknown Pin: Pin J2-15
+Add Pin To Net: Unknown Pin: Pin J2-16
+Add Pin To Net: Unknown Pin: Pin J2-17
+Add Pin To Net: Unknown Pin: Pin J2-18
+Add Pin To Net: Unknown Pin: Pin J2-19
+Add Pin To Net: Unknown Pin: Pin J2-20
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J2-22
+Add Pin To Net: Unknown Pin: Pin J2-23
+Add Pin To Net: Unknown Pin: Pin J2-24
+Add Pin To Net: Unknown Pin: Pin J2-25
+Add Pin To Net: Unknown Pin: Pin J3-S_1
+Add Pin To Net: Unknown Pin: Pin J3-S_2
+Add Pin To Net: Unknown Pin: Pin J3-S_3
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-4
+Add Pin To Net: Unknown Pin: Pin PS1-6
+Add Pin To Net: Unknown Pin: Pin PS2-1
+Add Pin To Net: Unknown Pin: Pin PS2-2
+Add Pin To Net: Unknown Pin: Pin PS2-4
+Add Pin To Net: Unknown Pin: Pin PS2-6
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Class: Class already exists: Spannungswandlung
+Add Class Member: Failed to add class member : Component D1 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component D2 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component D3 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component D4 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component J1 7460719_M8
+Add Class Member: Failed to add class member : Component J2 7460719_M8
+Add Class Member: Failed to add class member : Component J3 BNC5-J-P-GN-ST-TH2D_new
+Add Class Member: Failed to add class member : Component PS2 EC1SA01N
+Add Class Member: Failed to add class member : Component R6 1k 0.1%
+Add Class Member: Failed to add class member : Component R10 1k 0.1%

@@ -1,0 +1,97 @@
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 1SS356VMFHTE17
+Add Component: Footprint Not Found 7460719
+Add Component: Footprint Not Found 7460719
+Add Component: Footprint Not Found BNC5-J-P-GN-ST-TH2D_new
+Add Component: Footprint Not Found EC1SA01N
+Add Component: Footprint Not Found EC1SA01N
+Add Component: Footprint Not Found R1206_3216
+Add Component: Footprint Not Found R1206_3216
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J1-16
+Add Pin To Net: Unknown Pin: Pin J1-17
+Add Pin To Net: Unknown Pin: Pin J1-18
+Add Pin To Net: Unknown Pin: Pin J1-19
+Add Pin To Net: Unknown Pin: Pin J1-20
+Add Pin To Net: Unknown Pin: Pin J1-21
+Add Pin To Net: Unknown Pin: Pin J1-22
+Add Pin To Net: Unknown Pin: Pin J1-23
+Add Pin To Net: Unknown Pin: Pin J1-24
+Add Pin To Net: Unknown Pin: Pin J1-25
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J2-12
+Add Pin To Net: Unknown Pin: Pin J2-13
+Add Pin To Net: Unknown Pin: Pin J2-14
+Add Pin To Net: Unknown Pin: Pin J2-15
+Add Pin To Net: Unknown Pin: Pin J2-16
+Add Pin To Net: Unknown Pin: Pin J2-17
+Add Pin To Net: Unknown Pin: Pin J2-18
+Add Pin To Net: Unknown Pin: Pin J2-19
+Add Pin To Net: Unknown Pin: Pin J2-20
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J2-22
+Add Pin To Net: Unknown Pin: Pin J2-23
+Add Pin To Net: Unknown Pin: Pin J2-24
+Add Pin To Net: Unknown Pin: Pin J2-25
+Add Pin To Net: Unknown Pin: Pin J3-S_1
+Add Pin To Net: Unknown Pin: Pin J3-S_2
+Add Pin To Net: Unknown Pin: Pin J3-S_3
+Added Pin To Net: NetName=V_OUT_P Pin=J4-1
+Added Pin To Net: NetName=V_OUT_N Pin=J4-2
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-4
+Add Pin To Net: Unknown Pin: Pin PS1-6
+Add Pin To Net: Unknown Pin: Pin PS2-1
+Add Pin To Net: Unknown Pin: Pin PS2-2
+Add Pin To Net: Unknown Pin: Pin PS2-4
+Add Pin To Net: Unknown Pin: Pin PS2-6
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Class: Class already exists: Spannungswandlung
+Add Class Member: Failed to add class member : Component D1 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component D2 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component D3 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component D4 1SS356VMFHTE-17
+Add Class Member: Failed to add class member : Component J1 7460719_M8
+Add Class Member: Failed to add class member : Component J2 7460719_M8
+Add Class Member: Failed to add class member : Component J3 BNC5-J-P-GN-ST-TH2D_new
+Add Class Member: Failed to add class member : Component PS2 EC1SA01N
+Add Class Member: Failed to add class member : Component R6 1k 0.1%
+Add Class Member: Failed to add class member : Component R10 1k 0.1%

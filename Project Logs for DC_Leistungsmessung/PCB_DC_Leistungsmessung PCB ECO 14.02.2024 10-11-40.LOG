@@ -1,0 +1,23 @@
+Added Component: Designator=X1(IPL1-108-01-L-D-RA-K)
+Add component (AddParameter): Name = "Component Type"; Value = "Samtec Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Homepage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.samtec.com/products/ipl1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "30.11.2020 10:36:28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "15.02.2021 09:17:39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IPL1-108-01-L-D-RA-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "IPL1-108-01-L-D-RA-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_IN Pin=X1-10
+Added Pin To Net: NetName=24V_IN Pin=X1-11
+Change Net Name : Old Net Name=24V_IN New Net Name=5V_IN
+Add Class: Class already exists: Spannungswandlung

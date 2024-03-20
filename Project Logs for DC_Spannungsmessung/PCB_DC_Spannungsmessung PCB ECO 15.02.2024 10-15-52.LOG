@@ -1,0 +1,7 @@
+Added Component: Designator=J5(2311765-2)
+Added Pin To Net: NetName=V_OUT_N Pin=J5-1
+Added Pin To Net: NetName=V_OUT_P Pin=J5-6
+Add Pin To Net: Unknown Pin: Pin J5-10
+Add Pin To Net: Unknown Pin: Pin J5-11
+Add Class: Class already exists: Spannungswandlung
+Added Member To Class: ClassName=TopSheet Member=Component J5 2311765-2
