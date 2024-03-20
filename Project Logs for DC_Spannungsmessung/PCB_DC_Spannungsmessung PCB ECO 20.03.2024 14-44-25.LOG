@@ -1,0 +1,62 @@
+Change Component Footprint: Designator=C15 Old Footprint=C_0805 New Footprint=C_0603
+Change Component Footprint: Designator=C16 Old Footprint=C_0805 New Footprint=C_0603
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C_0805"; UniqueID = "\EXDMETLJ\BFAXMQMP" ("\EXDMETLJ\BFAXMQMP")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1810261909_Samsung-Electro-Mechanics-CL10A106MO8NQNC_C92487.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "AGeiger"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "22.08.2022 13:56:44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "03.09.2022 10:50:43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C92487"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106MO8NQNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C92487"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C_0805"; UniqueID = "\EXDMETLJ\MSFRLGIB" ("\EXDMETLJ\MSFRLGIB")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1810261909_Samsung-Electro-Mechanics-CL10A106MO8NQNC_C92487.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "AGeiger"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "22.08.2022 13:56:44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "03.09.2022 10:50:43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C92487"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106MO8NQNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C92487"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 VDC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C1 1 µF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C2 1 µF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C4 100 nF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C6 100 nF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C7 1 µF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C8 100 pF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C10 1 µF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C11 1 pF
+Added Member To Class: ClassName=Spannungswandlung Member=Component C12 1 µF
+Added Member To Class: ClassName=Spannungswandlung Member=Component C15 10 µF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component IC2 ADA4940-1ARZ-R7
+Added Member To Class: ClassName=TopSheet Member=Component J3 RJHSE-5381
+Added Member To Class: ClassName=TopSheet Member=Component J4 7461098_M6
+Added Member To Class: ClassName=TopSheet Member=Component J5 BNC5-J-P-GN-ST-TH2D_new
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component R2 2k 0.1%
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component R11 1k 0.1%
