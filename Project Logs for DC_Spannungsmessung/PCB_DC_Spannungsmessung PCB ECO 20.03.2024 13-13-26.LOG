@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=NetIC2_7 Pin=R6-1
+Removed Pin From Net: NetName=NetIC2_6 Pin=R10-1
+Added Component: Designator=C19(C_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "27.05.2022 14:13:40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM185R60J106ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 - 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM185R60J106ME5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitor 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "27.05.2022 14:13:40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM185R60J106ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 - 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM185R60J106ME5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 0603_1608)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/219/RK73B-1825463.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "02.03.2021 14:07:32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RK73B1JTTD300J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "660-RK73B1JTTD300J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 0603_1608)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/219/RK73B-1825463.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "02.03.2021 14:07:32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RK73B1JTTD300J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "660-RK73B1JTTD300J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_LV Pin=C19-1
+Added Pin To Net: NetName=GND_LV Pin=C20-2
+Added Pin To Net: NetName=NetIC2_7 Pin=R13-1
+Added Pin To Net: NetName=NetIC2_6 Pin=R14-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R6-1
+Added Pin To Net: NetName=NetC19_2 Pin=R13-2
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=R10-1
+Added Pin To Net: NetName=NetC20_1 Pin=R14-2
+Added Net: Name=NetC20_1
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C19 10 µF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component C20 10 µF
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component R13 30R
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component R14 30R

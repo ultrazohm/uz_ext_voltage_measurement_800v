@@ -139,20 +139,20 @@ DocumentPath=Project Outputs for DC_Spannungsmessung\Design Rule Check - PCB_DC_
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev 01
+Name=AuthorParam
+Value=T.Gaupp
 
 [Parameter2]
-Name=ProjectDate
-Value=03/2024
-
-[Parameter3]
 Name=Project
 Value=DC_Spannungsmessung
 
+[Parameter3]
+Name=ProjectDate
+Value=03/2024
+
 [Parameter4]
-Name=AuthorParam
-Value=T.Gaupp
+Name=ProjectRevision
+Value=Rev 01
 
 [Configuration1]
 Name=Sources

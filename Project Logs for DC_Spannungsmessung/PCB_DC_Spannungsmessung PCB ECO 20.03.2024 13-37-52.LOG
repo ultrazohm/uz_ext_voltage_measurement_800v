@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetIC2_7 Pin=R13-1
+Removed Pin From Net: NetName=NetIC2_6 Pin=R14-1
+Removed Member From Class: ClassName=VoltageDivider & Diff AMP Member=R13
+Removed Member From Class: ClassName=VoltageDivider & Diff AMP Member=R14
+Added Pin To Net: NetName=NetC3_1 Pin=C19-2
+Added Pin To Net: NetName=NetC6_1 Pin=C20-1
+Added Pin To Net: NetName=NetIC2_7 Pin=R6-1
+Added Pin To Net: NetName=NetIC2_6 Pin=R10-1
+Added Member To Class: ClassName=VoltageDivider & Diff AMP Member=Component R11 49R9
