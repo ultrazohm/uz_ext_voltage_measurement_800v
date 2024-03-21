@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Tom Gaupp\Documents\2022_10_tom_gaupp_schmidt_messplatinen\00_DC_Spannungsmessung\PCB_DC_Spannungsmessung.PcbDoc
-Date     : 14.03.2024
-Time     : 11:38:58
+PCB File : C:\Users\Tom Gaupp\Documents\uz_ext_voltage_measurement_800v\PCB_DC_Spannungsmessung.PcbDoc
+Date     : 21.03.2024
+Time     : 10:07:18
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

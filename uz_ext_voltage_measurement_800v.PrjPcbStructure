@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=TopSheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=Spannungswandlung|SchDesignator=Spannungswandlung|FileName=Power_Supply_HV.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power_Supply_HV.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=VoltageDivider & Diff AMP|SchDesignator=VoltageDivider & Diff AMP|FileName=Signal_Conditioning.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Signal_Conditioning.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
