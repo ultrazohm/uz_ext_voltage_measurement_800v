@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MZLQFAKP
 
 [Document4]
-DocumentPath=Power_Supply_HV.SchDoc
+DocumentPath=Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
