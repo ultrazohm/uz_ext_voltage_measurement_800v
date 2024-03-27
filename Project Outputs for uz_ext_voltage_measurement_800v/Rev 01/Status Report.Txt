@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_uz_ext_voltage_measurement_800v.PcbDoc]
+   Generated File[uz_ext_voltage_measurement_800v_Rev 01.TXT]
+   Generated File[uz_ext_voltage_measurement_800v_Rev 01.LDP]
+   Generated File[uz_ext_voltage_measurement_800v_Rev 01.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:05:48 On 27.03.2024
