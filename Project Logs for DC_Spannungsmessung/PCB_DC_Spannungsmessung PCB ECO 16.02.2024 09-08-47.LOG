@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=GND_LV Pin=J3-S_1
-Removed Pin From Net: NetName=GND_LV Pin=J3-S_2
-Removed Pin From Net: NetName=GND_LV Pin=J3-S_3
-Added Pin To Net: NetName=V_OUT_N Pin=J3-1
-Added Pin To Net: NetName=V_OUT_P Pin=J3-S_1
-Added Pin To Net: NetName=V_OUT_P Pin=J3-S_2
-Added Pin To Net: NetName=V_OUT_P Pin=J3-S_3
-Add Class: Class already exists: Spannungswandlung
