@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [PCB_uz_ext_voltage_measurement_800v.PcbDoc]
-   Generated File[uz_ext_voltage_measurement_800v_Rev 01.TXT]
-   Generated File[uz_ext_voltage_measurement_800v_Rev 01.LDP]
-   Generated File[uz_ext_voltage_measurement_800v_Rev 01.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:36:38 On 29.08.2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Default] of Project [uz_ext_voltage_measurement_800v.PrjPcb]
+   Generated File[BOM_uz_ext_voltage_measurement_800v_Default_Rev 01.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:46:31 On 03.04.2024
+Finished Output Generation At 10:36:56 On 29.08.2024
