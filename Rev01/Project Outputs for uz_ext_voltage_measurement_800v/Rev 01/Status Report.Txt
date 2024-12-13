@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:36:38 On 29.08.2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Default] of Project [uz_ext_voltage_measurement_800v.PrjPcb]
+   Generated File[BOM_uz_ext_voltage_measurement_800v_Default_Rev 01.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:36:56 On 29.08.2024

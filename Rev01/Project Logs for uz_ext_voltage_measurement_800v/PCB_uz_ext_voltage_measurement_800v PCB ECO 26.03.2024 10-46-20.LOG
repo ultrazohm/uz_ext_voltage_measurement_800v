@@ -1,0 +1,14 @@
+Change component parameters: Designator = "J2" ("J2"); Footprint = "23117652"; UniqueID = "\HAPUJXFO" ("\HAPUJXFO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2311765-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2311765-2/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2311765%7FD%7Fpdf%7FEnglish%7FENG_CD_2311765_D.pdf%7F2311765-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2311765-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-2311765-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2311765-2?qs=rrS6PyfT74frdzrH7SJRfg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "571-2311765-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "RJHSE-5381"; UniqueID = "\UTRPPJON" ("\UTRPPJON")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "523-RJHSE-5381"; VariantName = "[No Variations]"
