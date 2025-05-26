@@ -21,7 +21,7 @@ TargetOutputMedium=BOM
 VariantName=Default
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Drucken in PDF Annotator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -183,7 +183,7 @@ PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration6_Name1=ColumnNameFormat
 Configuration6_Item1=CaptionAsName
 Configuration6_Name2=General
-Configuration6_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Student\Desktop\Altium\altium_libraries\templates\BOM\BOM_Template_THN.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=1029|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration6_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Student\Desktop\Altium\altium_libraries\templates\BOM\BOM_Template_THN.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=1029|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration6_Name3=GroupOrder
 Configuration6_Item3=Comment=True|MPN=True|Footprint=True
 Configuration6_Name4=OutputConfigurationParameter1
@@ -543,7 +543,7 @@ Configuration13_Item9=Comment=116|Designator=107|Footprint=149|LCSC Part Number=
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath2=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=
@@ -570,7 +570,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\ga92wum\git\UltraZohm\PCB\elsys_strommessung\Altium\Strommessplatine\Project Outputs for Strommessplatine\Rev01\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath3=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia3==ProjectRevision
 OutputPathMediaValue3==ProjectRevision
 OutputPathOutputer3=
@@ -597,7 +597,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Users\ga92wum\git\UltraZohm\PCB\elsys_strommessung\Altium\Strommessplatine\Project Outputs for Strommessplatine\Rev01\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath4=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia4==ProjectRevision
 OutputPathMediaValue4==ProjectRevision
 OutputPathOutputer4=
@@ -624,7 +624,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Users\ELSYS\Documents\2022_10_tom_gaupp_schmidt_messplatinen\00_Spannungsmessung_verstärkt\Project Outputs for Projekt_Spannungsmessung_verstaerkt\Rev01\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath5=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia5==ProjectRevision
 OutputPathMediaValue5==ProjectRevision
 OutputPathOutputer5=[Output Custom]
@@ -637,7 +637,7 @@ OutputFileNameSpecial5=
 OpenOutput5=0
 OutputFilePath6=C:\Users\ELSYS\Documents\2022_10_tom_gaupp_schmidt_messplatinen\00_Spannungsmessung_verstärkt\Project Outputs for Projekt_Spannungsmessung_verstaerkt\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath6=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia6=
 OutputPathMediaValue6=
 OutputPathOutputer6=[Output Type]
@@ -650,7 +650,7 @@ OutputFileNameSpecial6=
 OpenOutput6=0
 OutputFilePath7=C:\Users\Tom Gaupp\Documents\uz_ext_voltage_measurement_800v\Project Outputs for uz_ext_voltage_measurement_800v\Rev 01\
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath7=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia7==ProjectRevision
 OutputPathMediaValue7==ProjectRevision
 OutputPathOutputer7=[Output Type]
@@ -663,7 +663,7 @@ OutputFileNameSpecial7=
 OpenOutput7=0
 OutputFilePath8=C:\Users\ELSYS\Documents\2022_10_tom_gaupp_schmidt_messplatinen\00_Spannungsmessung_verstärkt\Project Outputs for Projekt_Spannungsmessung_verstaerkt\ProjectRevision\
 ReleaseManaged8=1
-OutputBasePath8=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath8=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia8=='ProjectRevision'
 OutputPathMediaValue8=='ProjectRevision'
 OutputPathOutputer8=[Output Type]
@@ -676,7 +676,7 @@ OutputFileNameSpecial8=
 OpenOutput8=0
 OutputFilePath9=C:\Users\Tom Gaupp\Documents\uz_ext_voltage_measurement_800v\Project Outputs for uz_ext_voltage_measurement_800v\Rev 01\
 ReleaseManaged9=1
-OutputBasePath9=Project Outputs for uz_ext_voltage_measurement_800v
+OutputBasePath9=Project Outputs for uz_ext_voltage_measurement_800v_Rev02
 OutputPathMedia9==ProjectRevision
 OutputPathMediaValue9==ProjectRevision
 OutputPathOutputer9=[Output Type]
